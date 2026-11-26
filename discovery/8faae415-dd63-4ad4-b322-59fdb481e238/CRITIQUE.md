@@ -69,4 +69,3 @@
 - [S9: MCP: использование](https://yookassa.ru/developers/payment-acceptance/integration-scenarios/mcp-server/scenarios)
 
 Входные артефакты: [BRAINSTORM.md](../ce70b896-4ad9-4c04-b619-ac3207893dda/BRAINSTORM.md), [brainstorm.yaml](../ce70b896-4ad9-4c04-b619-ac3207893dda/brainstorm.yaml), [RESEARCH.md](../baa738f9-93cd-451b-a0fa-2588334a5e9f/RESEARCH.md), [research.yaml](../baa738f9-93cd-451b-a0fa-2588334a5e9f/research.yaml). Структурированный payload использует JSON-синтаксис, допустимый в YAML 1.2; новые поля и новые ID кандидатов не вводятся.
-
